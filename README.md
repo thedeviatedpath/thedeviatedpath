@@ -1,4 +1,4 @@
-Hello, I'm Andrew also known as Deviatedpath. I'm a amateur software developer and lover of all things technology.
+Hello, I'm Andrew also known as Deviatedpath. I'm an amateur software developer and lover of all things technology.
 
 I have experiences in a lot of languages, but I mostly reside in Java and Python.
 
